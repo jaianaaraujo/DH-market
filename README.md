@@ -1,5 +1,7 @@
 # DH Market
-
-<p>trabalho em grupo na matéria de Front end</p>
+⚠️ Readme em construção
+<p>📢 Trabalho de conclusão da matéria Frontend I</p>
 
 Acesse: https://jaianaaraujo.github.io/DH-market/
+
+
