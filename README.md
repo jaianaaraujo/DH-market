@@ -1,8 +1,8 @@
 # DH Market  
 
 ## 🚀 Sobre o projeto  
-O **DH Market** é uma simulação de uma página de uma empresa financeira, criada para explorar conceitos fundamentais de **desenvolvimento frontend**.  
-O objetivo do projeto foi construir uma interface moderna e responsiva, utilizando boas práticas de **HTML, CSS e Bootstrap** para proporcionar uma experiência intuitiva ao usuário.  
+O **DH Market** é um projeto que simula a página de um supermercado digital, desenvolvido para aplicar conceitos de **desenvolvimento frontend**.  
+O objetivo foi criar uma interface moderna, responsiva e intuitiva, utilizando **HTML, CSS e Bootstrap**, proporcionando uma experiência fluida para os usuários navegarem pelos produtos e funcionalidades do site.  
 
 ---
 
@@ -14,7 +14,7 @@ O objetivo do projeto foi construir uma interface moderna e responsiva, utilizan
 ---
 
 ## 📸 Demonstração  
-🔗 [Clique aqui para acessar o projeto](https://jaianaaraujo.github.io/DH-market/) e veja a página funcionando!  
+🔗 [Clique aqui para acessar o projeto](https://jaianaaraujo.github.io/DH-market/) e explore o DH Market!  
 
 ---
 
